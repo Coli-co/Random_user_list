@@ -1,7 +1,5 @@
 # Random User List
 
----
-
 This is simple web application about searching user list. :man_technologist:
 
 ![Screenshot](./screenshot.jpg)
