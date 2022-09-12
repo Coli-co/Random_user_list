@@ -1,17 +1,16 @@
 # Random User List
-___
+
+---
 
 This is simple web application about searching user list. :man_technologist:
 
-![Screenshot](C:/Users/user/Desktop/Random_user_list/screenshot.jpg)
-
-
+![Screenshot](./screenshot.jpg)
 
 ## Features
 
 - Searching user from home-page or favorite-page.
 - Adding user to favorite-page and it also can be removed.
-- Viewing individual user list  information.
+- Viewing individual user list information.
 - Switching pages to view different user list.
 
 ## Code style
